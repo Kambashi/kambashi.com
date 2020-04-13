@@ -1,3 +1,3 @@
-[Taikun Kambashi](taikun.kambashi.com)
+[Taikun Kambashi](http://taikun.kambashi.com)
 
-[Seikun Kambashi](seikun.kambashi.com)
+[Seikun Kambashi](https://seikun.kambashi.com)
