@@ -1,0 +1,8 @@
+title: Kambashi
+description: Welcome to the Kambashi family of sites.
+google_analytics: UA-47238444-5
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
